@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 const sequelize = require('../core');
 
-const Produtos = sequelize.define('Produtos', {    
+const Produtos = sequelize.define('Produtos', {
   nome: {
     type: Sequelize.STRING,
     allowNull: false,

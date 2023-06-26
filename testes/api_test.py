@@ -16,7 +16,7 @@ def test_create_product():
 
 
 def test_get_product():
-    url = 'http://localhost:3005/crud/1'
+    url = 'http://localhost:3005/crud'
 
     response = requests.get(url)
 
@@ -54,3 +54,4 @@ test_create_product()
 test_get_product()
 test_update_product()
 test_delete_product()
+
