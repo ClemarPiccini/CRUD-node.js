@@ -2,7 +2,7 @@
 
 *link mostrando o funcionamento do código*
 
-https://share.vidyard.com/watch/61dF6fYAcs1HC7E4D1jTFX?
+https://share.vidyard.com/watch/hhvUTSSJUoBtMyyq7Gds7Y?
 
 **API NODE.JS**
 
